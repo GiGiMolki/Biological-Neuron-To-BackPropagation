@@ -1,4 +1,4 @@
-# Biological-Neuron-To-BackPropagation
+# Biological-Neuron-To-BackPropagation , an AI seminar delivered by GiGi Koneti
 The mathematical evolution behind the journey of multi layer perceptron from historic perceptron algorirthm.
 
 🎉 **Presentation Shared: The Journey of the Artificial Neuron is Here!**
@@ -11,7 +11,7 @@ It was an awesome experience exploring how a simple mathematical idea, the Perce
 
 ## 📌 Session Details
 
-For context, this was a special seminar delivered during our **'Introduction to Artificial Intelligence'** class.
+For context, this was a special seminar delivered By GiGi Koneti (me) during our **'Introduction to Artificial Intelligence'** class.
 
 * **Date:** Tuesday, October 28, 2025
 * **Duration:** A deep dive session that ran for well over an hour, starting at **1:00 PM**.
