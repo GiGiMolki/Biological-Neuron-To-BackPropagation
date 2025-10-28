@@ -3,7 +3,7 @@ The mathematical evolution behind the journey of multi layer perceptron from his
 
 🎉 **Presentation Shared: The Journey of the Artificial Neuron is Here!**
 
-Super excited to share my presentation on the incredible mathematical journey that built the foundations of modern AI! This repository contains the PDF titled **"The Calculus of Cognition: From Perceptron to Backpropagation."**
+Super excited to share my presentation on the incredible mathematical journey that built the foundations of modern AI! This repository contains the PDF titled **"The Calculus of Cognition: From Biological Neuron to Backpropagation."**
 
 It was an awesome experience exploring how a simple mathematical idea, the Perceptron, evolved into the powerful structure (the MLP) that underpins today's Deep Learning revolution.
 
