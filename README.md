@@ -70,3 +70,4 @@ This single equation, powered by the calculus of the Chain Rule, is what allows 
 You can download the full presentation slides here:
 
 [MLP Presentation PDF - The Calculus of Cognition](MLP.pdf)
+[Link]("file:///Users/mynimbus/Downloads/MLP.pdf")
