@@ -64,3 +64,9 @@ $$
 * $\frac{\partial L}{\partial w}$ is the **Partial Derivative**, calculated by skillfully applying the Chain Rule across the whole network. This tells us exactly how much the error changes with respect to *that specific weight*.
 
 This single equation, powered by the calculus of the Chain Rule, is what allows complex, multi-layered networks to learn from data and is the real 'secret' behind the AI we see today!
+
+### 📄 Download the Full Presentation
+
+You can download the full presentation slides here:
+
+[MLP Presentation PDF - The Calculus of Cognition](MLP.pdf)
