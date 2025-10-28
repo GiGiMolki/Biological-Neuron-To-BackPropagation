@@ -1,3 +1,6 @@
+# Biological-Neuron-To-BackPropagation
+The mathematical evolution behind the journey of multi layer perceptron from historic perceptron algorirthm.
+
 🎉 **Presentation Shared: The Journey of the Artificial Neuron is Here!**
 
 Super excited to share my presentation on the incredible mathematical journey that built the foundations of modern AI! This repository contains the PDF titled **"The Calculus of Cognition: From Perceptron to Backpropagation."**
