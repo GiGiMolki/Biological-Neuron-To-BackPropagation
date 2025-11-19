@@ -18,6 +18,8 @@ For context, this was a special seminar delivered By GiGi Koneti (me) during our
 * **Setting:** Room No. 312, Building Number 13.
 * **Course:** Semester 1, Department of Automobile Engineering.
 
+! [Cover Page](/Image.png)
+
 ---
 
 ## 🚀 The Essence: Key Highlights from the Presentation
